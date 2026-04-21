@@ -3,6 +3,7 @@
 * [Dictionary Algoritm](dictionary.md)
 * 2- [Vizualization Algoritm](vizualization.md)
 * 1- [Pattern Algoritm](pattern_algoritm.md)
+* 4- [Leetcode list task Algoritm](leetcode_list_check.md)
 
 
 
