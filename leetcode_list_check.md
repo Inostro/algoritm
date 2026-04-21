@@ -221,3 +221,14 @@
 | [ ] | 54 | Spiral Matrix | [LeetCode 54](https://leetcode.com/problems/spiral-matrix/) |
 
 ---
+
+***Скопируй и вставь в "Решено" вместо скобок***
+
+✅  
+⭕  
+❌  
+🏆  
+🎖️  
+🏅  
+🎉  
+🎯  
