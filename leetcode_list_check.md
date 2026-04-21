@@ -22,7 +22,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [X] | 125 | Valid Palindrome | [LeetCode 125](https://leetcode.com/problems/valid-palindrome/) |
+| ✅ | 125 | Valid Palindrome | [LeetCode 125](https://leetcode.com/problems/valid-palindrome/) |
 | [ ] | 167 | Two Sum II — Input Array Is Sorted | [LeetCode 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | [ ] | 15 | 3Sum | [LeetCode 15](https://leetcode.com/problems/3sum/) |
 | [ ] | 11 | Container With Most Water | [LeetCode 11](https://leetcode.com/problems/container-with-most-water/) |
@@ -34,7 +34,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [X] | 20 | Valid Parentheses | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| ✅ | 20 | Valid Parentheses | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
 | [ ] | 155 | Min Stack | [LeetCode 155](https://leetcode.com/problems/min-stack/) |
 | [ ] | 150 | Evaluate Reverse Polish Notation | [LeetCode 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | [ ] | 22 | Generate Parentheses | [LeetCode 22](https://leetcode.com/problems/generate-parentheses/) |
@@ -46,7 +46,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [X] | 704 | Binary Search | [LeetCode 704](https://leetcode.com/problems/binary-search/) |
+| ✅ | 704 | Binary Search | [LeetCode 704](https://leetcode.com/problems/binary-search/) |
 | [ ] | 74 | Search a 2D Matrix | [LeetCode 74](https://leetcode.com/problems/search-a-2d-matrix/) |
 | [ ] | 875 | Koko Eating Bananas | [LeetCode 875](https://leetcode.com/problems/koko-eating-bananas/) |
 | [ ] | 33 | Search in Rotated Sorted Array | [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
