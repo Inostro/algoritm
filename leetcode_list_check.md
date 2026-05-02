@@ -12,7 +12,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [X] | 217 | Contains Duplicate | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/) |
+| ✅ | 217 | Contains Duplicate | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/) |
 | [ ] | 242 | Valid Anagram | [LeetCode 242](https://leetcode.com/problems/valid-anagram/) |
 | [ ] | 1 | Two Sum | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
 | [ ] | 49 | Group Anagrams | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) |
@@ -60,7 +60,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 121 | Best Time to Buy and Sell Stock | [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| ✅ | 121 | Best Time to Buy and Sell Stock | [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | [ ] | 3 | Longest Substring Without Repeating Characters | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | [ ] | 424 | Longest Repeating Character Replacement | [LeetCode 424](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | [ ] | 567 | Permutation in String | [LeetCode 567](https://leetcode.com/problems/permutation-in-string/) |
@@ -72,7 +72,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 206 | Reverse Linked List | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| ✅ | 206 | Reverse Linked List | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
 | [ ] | 21 | Merge Two Sorted Lists | [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | [ ] | 141 | Linked List Cycle | [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/) |
 | [ ] | 19 | Remove Nth Node From End of List | [LeetCode 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
@@ -84,7 +84,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 104 | Maximum Depth of Binary Tree | [LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| ✅ | 104 | Maximum Depth of Binary Tree | [LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | [ ] | 100 | Same Tree | [LeetCode 100](https://leetcode.com/problems/same-tree/) |
 | [ ] | 226 | Invert Binary Tree | [LeetCode 226](https://leetcode.com/problems/invert-binary-tree/) |
 | [ ] | 124 | Binary Tree Maximum Path Sum | [LeetCode 124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
@@ -96,7 +96,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 208 | Implement Trie (Prefix Tree) | [LeetCode 208](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| ✅ | 208 | Implement Trie (Prefix Tree) | [LeetCode 208](https://leetcode.com/problems/implement-trie-prefix-tree/) |
 | [ ] | 211 | Design Add and Search Words Data Structure | [LeetCode 211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 | [ ] | 212 | Word Search II | [LeetCode 212](https://leetcode.com/problems/word-search-ii/) |
 | [ ] | 648 | Replace Words | [LeetCode 648](https://leetcode.com/problems/replace-words/) |
