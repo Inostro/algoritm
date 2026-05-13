@@ -144,7 +144,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 70 | Climbing Stairs | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/) |
+| ✅ | 70 | Climbing Stairs | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/) |
 | [ ] | 198 | House Robber | [LeetCode 198](https://leetcode.com/problems/house-robber/) |
 | [ ] | 213 | House Robber II | [LeetCode 213](https://leetcode.com/problems/house-robber-ii/) |
 | [ ] | 5 | Longest Palindromic Substring | [LeetCode 5](https://leetcode.com/problems/longest-palindromic-substring/) |
@@ -156,7 +156,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 56 | Merge Intervals | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
+| ✅ | 56 | Merge Intervals | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
 | [ ] | 57 | Insert Interval | [LeetCode 57](https://leetcode.com/problems/insert-interval/) |
 | [ ] | 435 | Non-overlapping Intervals | [LeetCode 435](https://leetcode.com/problems/non-overlapping-intervals/) |
 | [ ] | 452 | Minimum Number of Arrows to Burst Balloons | [LeetCode 452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |
@@ -168,7 +168,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 455 | Assign Cookies | [LeetCode 455](https://leetcode.com/problems/assign-cookies/) |
+| ✅ | 455 | Assign Cookies | [LeetCode 455](https://leetcode.com/problems/assign-cookies/) |
 | [ ] | 55 | Jump Game | [LeetCode 55](https://leetcode.com/problems/jump-game/) |
 | [ ] | 45 | Jump Game II | [LeetCode 45](https://leetcode.com/problems/jump-game-ii/) |
 | [ ] | 763 | Partition Labels | [LeetCode 763](https://leetcode.com/problems/partition-labels/) |
@@ -180,7 +180,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 1584 | Min Cost to Connect All Points | [LeetCode 1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) |
+|✅ | 1584 | Min Cost to Connect All Points | [LeetCode 1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) |
 | [ ] | 778 | Swim in Rising Water | [LeetCode 778](https://leetcode.com/problems/swim-in-rising-water/) |
 | [ ] | 743 | Network Delay Time | [LeetCode 743](https://leetcode.com/problems/network-delay-time/) |
 | [ ] | 787 | Cheapest Flights Within K Stops | [LeetCode 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
@@ -192,7 +192,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 62 | Unique Paths | [LeetCode 62](https://leetcode.com/problems/unique-paths/) |
+| ✅ | 62 | Unique Paths | [LeetCode 62](https://leetcode.com/problems/unique-paths/) |
 | [ ] | 64 | Minimum Path Sum | [LeetCode 64](https://leetcode.com/problems/minimum-path-sum/) |
 | [ ] | 1143 | Longest Common Subsequence | [LeetCode 1143](https://leetcode.com/problems/longest-common-subsequence/) |
 | [ ] | 72 | Edit Distance | [LeetCode 72](https://leetcode.com/problems/edit-distance/) |
@@ -204,7 +204,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 136 | Single Number | [LeetCode 136](https://leetcode.com/problems/single-number/) |
+| ✅ | 136 | Single Number | [LeetCode 136](https://leetcode.com/problems/single-number/) |
 | [ ] | 338 | Counting Bits | [LeetCode 338](https://leetcode.com/problems/counting-bits/) |
 | [ ] | 190 | Reverse Bits | [LeetCode 190](https://leetcode.com/problems/reverse-bits/) |
 | [ ] | 191 | Number of 1 Bits | [LeetCode 191](https://leetcode.com/problems/number-of-1-bits/) |
@@ -216,7 +216,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 66 | Plus One | [LeetCode 66](https://leetcode.com/problems/plus-one/) |
+| ✅ | 66 | Plus One | [LeetCode 66](https://leetcode.com/problems/plus-one/) |
 | [ ] | 69 | Sqrt(x) | [LeetCode 69](https://leetcode.com/problems/sqrtx/) |
 | [ ] | 50 | Pow(x, n) | [LeetCode 50](https://leetcode.com/problems/powx-n/) |
 | [ ] | 73 | Set Matrix Zeroes | [LeetCode 73](https://leetcode.com/problems/set-matrix-zeroes/) |
