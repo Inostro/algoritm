@@ -108,7 +108,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 78 | Subsets | [LeetCode 78](https://leetcode.com/problems/subsets/) |
+| ✅ | 78 | Subsets | [LeetCode 78](https://leetcode.com/problems/subsets/) |
 | [ ] | 39 | Combination Sum | [LeetCode 39](https://leetcode.com/problems/combination-sum/) |
 | [ ] | 46 | Permutations | [LeetCode 46](https://leetcode.com/problems/permutations/) |
 | [ ] | 79 | Word Search | [LeetCode 79](https://leetcode.com/problems/word-search/) |
@@ -120,7 +120,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 703 | Kth Largest Element in a Stream | [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
+| ✅ | 703 | Kth Largest Element in a Stream | [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
 | [ ] | 1046 | Last Stone Weight | [LeetCode 1046](https://leetcode.com/problems/last-stone-weight/) |
 | [ ] | 973 | K Closest Points to Origin | [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | [ ] | 215 | Kth Largest Element in an Array | [LeetCode 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
@@ -132,7 +132,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 200 | Number of Islands | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
+| ✅ | 200 | Number of Islands | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
 | [ ] | 133 | Clone Graph | [LeetCode 133](https://leetcode.com/problems/clone-graph/) |
 | [ ] | 207 | Course Schedule | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
 | [ ] | 210 | Course Schedule II | [LeetCode 210](https://leetcode.com/problems/course-schedule-ii/) |
